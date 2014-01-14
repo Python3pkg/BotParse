@@ -16,7 +16,7 @@ if __name__ == "__main__":
         provides=[
             "BotParse",
         ],
-        modules =[
+        py_modules = [
             "botparse",
         ],
         package_data={
