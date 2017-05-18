@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Copyright (C) 2013, Cameron White
 import argparse
-from io import StringIO
+from StringIO import StringIO
 
 parser_output = StringIO()
 
